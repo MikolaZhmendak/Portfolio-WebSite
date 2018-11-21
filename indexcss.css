@@ -42,13 +42,13 @@
 }
 
 .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 30px;
+  padding: 10px;
+  font-size: 15px;
+  width: 20px;
   text-align: right;
   text-decoration: none;
   margin: 5px 2px;
-  border-radius: 50%;
+  border-radius: 40%;
   }
   .fa:hover {
     opacity: 0.7;
